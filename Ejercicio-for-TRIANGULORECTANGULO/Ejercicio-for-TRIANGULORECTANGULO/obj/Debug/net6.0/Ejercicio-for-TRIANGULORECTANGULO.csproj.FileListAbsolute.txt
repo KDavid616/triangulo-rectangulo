@@ -1,0 +1,15 @@
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\bin\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.exe
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\bin\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.deps.json
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\bin\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.runtimeconfig.json
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\bin\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.dll
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\bin\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.pdb
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.csproj.AssemblyReference.cache
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.AssemblyInfoInputs.cache
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.AssemblyInfo.cs
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.csproj.CoreCompileInputs.cache
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.dll
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\refint\Ejercicio-for-TRIANGULORECTANGULO.dll
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.pdb
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\Ejercicio-for-TRIANGULORECTANGULO.genruntimeconfig.cache
+C:\Users\Karloz NA\source\repos\Ejercicio-for-TRIANGULORECTANGULO\Ejercicio-for-TRIANGULORECTANGULO\obj\Debug\net6.0\ref\Ejercicio-for-TRIANGULORECTANGULO.dll
